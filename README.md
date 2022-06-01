@@ -1,2 +1,0 @@
-# WikiAutoTranslation
-Wiki Auto Translation
