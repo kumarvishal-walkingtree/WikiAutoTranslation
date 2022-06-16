@@ -307,6 +307,7 @@
 	"NO":"NIE Capital",
     "No":"NIE",
     "YES":"TAK",
+	"Yes":"TAK Capital",
     "Record result of the Boot Test":"Zapisz wynik testu rozruchu",
     "Record result of the LED Test":"Zapisz wynik testu diod LED",
     "In case of a failed timeout, record the result of the test and timeout the unit.":"Zapisz wynik W przypadku nieudanego przekroczenia limitu czasu, zapisz wynik testu i przekroczenie limitu czasu urządzenia. Test diod LED",
@@ -459,6 +460,5 @@
     "Label":"Etykieta",
     "Cover":"Pokrywa",
     "Screw":"Wkręt"
-
 }
 }
