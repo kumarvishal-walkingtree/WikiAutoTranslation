@@ -304,6 +304,7 @@
     "Old Part Number":"Stary numer części",
     "New Part Number":"Nowy numer części",
     "Close":"Blisko",
+	"NO":"NIE Capital",
     "No":"NIE",
     "YES":"TAK",
     "Record result of the Boot Test":"Zapisz wynik testu rozruchu",
@@ -459,4 +460,5 @@
     "Cover":"Pokrywa",
     "Screw":"Wkręt"
 
+}
 }
